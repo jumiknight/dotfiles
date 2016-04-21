@@ -1,0 +1,63 @@
+!! MISC
+
+*urgentOnBell:    true
+
+! Clickable links
+*perl-ext-common:    default,matcher
+*url-launcher:       firefox
+*matcher.button:     1
+
+
+!! RICE
+
+! Make minimal
+*scrollBar:          false
+*internalBorder:     3
+*.geometry:          92x15
+
+dzen2.font:         -*-tewi-*-*-*-*-*-*-*-*-*-*-*-*
+
+! Set font
+*font:               xft:tewi:size=8
+*boldFont:           xft:tewi:size=8
+*lineSpace:          0
+*letterSpace:        0
+
+! Change cursor
+*cursorUnderline:    true
+
+
+!! COLORS
+
+! Misc
+*foreground:   #c2c2b0
+*background:   #222222
+*cursorColor:  #c2c2b0
+*highlightColor:     #e3d8c3
+*highlightTextColor: #ef9a9a
+
+! black
+*color0:       #444444
+*color8:       #555555
+! red
+*color1:       #aa4450
+*color9:       #ff6a6a
+! green
+*color2:       #719611
+*color10:      #b1d631
+! yellow
+!*color3:      #cc8800
+*color3:       #ff9800
+*color11:      #87875f
+! blue
+*color4:       #6688aa
+*color12:      #90b0d1
+! magenta
+*color5:       #8f6f8f
+*color13:      #8181a6
+! cyan
+*color6:       #528b8b
+*color14:      #87ceeb
+! white
+*color7:       #d3d3d3
+*color15:      #c1cdc1
